@@ -6,3 +6,6 @@ Hi, this is another line of code that was added on VS Studio Code!
 Hello from the new branch!
 
 This is another line
+
+
+This is a solo branch
